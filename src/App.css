@@ -45,6 +45,7 @@
   background-image: url("./images/Paimon-os-test-screenshot.png");
   background-size: 100vw 56.25vw;
   background-repeat: no-repeat;
+  color: #320011;
   /*border: 5px solid;*/
 }
 
@@ -65,13 +66,15 @@
   display: flex;
   width: 100vw;
   height: 56.25vw;
+  color: #320011;
 }
 
 #div3 {
   display: flex;
   width: 100vw;
   height: 56.25vw;
-  background-color: black;
+  /*background-color: black;*/
+  background-color: #1B161C;
   color: white;
 }
 

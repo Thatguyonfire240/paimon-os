@@ -31,7 +31,7 @@ export const NavLink = styled(Link)`
     height: 100%;
     cursor: pointer;
     &:hover {
-        color: black;
+        color: #320011;
     }
 `
 
@@ -83,6 +83,6 @@ export const NavBtnLink = styled(Link)`
     &:hover {
         transition: all 0.2 ease-in-out;
         background: #fff;
-        color: #808080;
+        color: #320011;
     }
 `
