@@ -83,3 +83,11 @@
   align-items: center;
   text-align: center;
 }
+
+#button {
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  background: transparent;
+  padding: 10px 22px;
+}

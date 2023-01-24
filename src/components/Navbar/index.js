@@ -23,6 +23,9 @@ const Navbar = () => {
                     <NavLink to="/" activeStyle={{ color:'black' }}>
                         Home
                     </NavLink>
+                    <NavLink to="/download" activeStyle={{ color:'black' }}>
+                        Download
+                    </NavLink>
                     <NavLink to="/about" activeStyle={{ color:'black' }}>
                         About
                     </NavLink>
