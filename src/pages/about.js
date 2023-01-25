@@ -1,14 +1,12 @@
 const About = () => {
     return (
-        <div
-            style={{
-                display: 'flex',
-                justifyContent: 'center',
-                alignItems: 'center',
-                height: '100vh'
-            }}
-        >
-            <h1>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Exercitationem, totam.</h1>
+        <div>
+            <div id="div2">
+                <div id="center">
+                    <h1>We are here to provide the best genshin impact OS ever made!
+                    are we the only genshin OS made? YES but we are still the best! </h1>
+                </div>
+            </div>
         </div>
     );
 };
