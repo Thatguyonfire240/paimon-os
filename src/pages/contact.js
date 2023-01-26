@@ -1,14 +1,9 @@
 const Contact = () => {
     return (
-        <div
-            style={{
-                display: 'flex',
-                justifyContent: 'center',
-                alignItems: 'center',
-                height: '100vh'
-            }}
-        >
-           <p id="text">Contact Us</p> 
+        <div id ="div2">
+           <div id="center">
+                <p id="text">Contact Us</p>
+            </div> 
         </div>
     );
 };

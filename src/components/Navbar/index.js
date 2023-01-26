@@ -15,7 +15,7 @@ const Navbar = () => {
         <>
             <Nav>
                 <NavLogo to="/">
-                    Logo
+                  <img src="https://play-lh.googleusercontent.com/vRd2gg6XmC3TRTM5wZZ8qwEc5LMUROh4whycLuiCSPB40tIxDYLT6V0BdCn486XiKQ0=s48" />
                 </NavLogo>
                 <Bars />
 
