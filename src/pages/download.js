@@ -8,7 +8,7 @@ const Download = () => {
         <div>
             <div id="div2">
                 <div id="center">
-                    <h1>Here is where you download the Distro</h1>
+                    <p id="text">Here is where you download the Distro</p>
                     <Btn>
                         <BtnLink to="./test-file.txt" target="_blank" download>
                                 Test

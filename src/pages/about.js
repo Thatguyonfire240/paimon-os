@@ -3,8 +3,8 @@ const About = () => {
         <div>
             <div id="div2">
                 <div id="center">
-                    <h1>We are here to provide the best genshin impact OS ever made!
-                    are we the only genshin OS made? YES but we are still the best! </h1>
+                    <p id="text">We are here to provide the best genshin impact OS ever made!
+                    are we the only genshin OS made? YES but we are still the best! </p>
                 </div>
             </div>
         </div>

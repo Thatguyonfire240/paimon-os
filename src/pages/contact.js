@@ -8,7 +8,7 @@ const Contact = () => {
                 height: '100vh'
             }}
         >
-           <h1>Contact Us</h1> 
+           <p id="text">Contact Us</p> 
         </div>
     );
 };
